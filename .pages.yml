@@ -44,7 +44,7 @@ content:
         list: true
 
         
-  - name: sketches_cover
+  - name: sketchescover
     label: Sketches Cover
     type: file
     path: content/sketches-cover.json
