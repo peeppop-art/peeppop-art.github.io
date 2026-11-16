@@ -44,6 +44,17 @@ content:
         list: true
 
         
+  - name: sketches_cover
+    label: Sketches Cover
+    type: file
+    path: content/sketches-cover.json
+    format: json
+    fields:
+      - name: cover
+        label: Homepage cover image
+        type: image
+        required: true
+
   - name: about
     label: About
     type: file
